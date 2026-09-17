@@ -1,2 +1,2 @@
 Я Lexium121 делаю strcoll
-Я snickerd делаю starchy
+Я snickerd делаю strchr
